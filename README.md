@@ -1,5 +1,6 @@
 # YoutubeVideoDownloader
-Download videos from youtube. I personally do this for long trips with my toddler to keep her entertained.
+Download videos from youtube.<br>
+I personally do this for long trips with my toddler to keep her entertained.
 # How it works?
 The python code will check and download pytube library if it isnt installed.<br>
 A folder name "videos" will be created if it isnt there.<br>
